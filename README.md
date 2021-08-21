@@ -40,17 +40,31 @@ chmod +x install-requirement.sh
 bash install-requirement.sh
 ```
 
+```bash
+python start.py
+```
+'IN KALI LINUX JUST USE
+
+```bash
+python3 start.py
+```
+
+##INSTA-BOT
+
+![](screenshot/Screenshot_20210821-132306.png)
 
 ## FEATURES
 
-![](screenshot/Screenshot_20210821-132126.png)
-
 ```Easy To use
+
 By clicking few steps
 
 # Get up to 250 Followers a day'
 
 # Both Local and Internatinal Follwers'
+
+![](screenshot/Screenshot_20210821-132126.png)
+
 
 
 # No Bugs  'simplified'
