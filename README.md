@@ -63,7 +63,7 @@ By clicking few steps
 
 # Both Local and Internatinal Follwers'
 
-![](screenshot/Screenshot_20210821-132126.png)
+![amlike](/screenshot/Screenshot_20210821-132126.png)
 
 
 
