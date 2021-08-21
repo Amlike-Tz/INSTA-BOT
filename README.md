@@ -43,7 +43,8 @@ bash install-requirement.sh
 
 ## FEATURES
 
-![]()
+![](screenshot/Screenshot_20210821-132126.png)
+
 ```Easy To use
 By clicking few steps
 
