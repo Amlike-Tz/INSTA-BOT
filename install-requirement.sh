@@ -23,7 +23,9 @@ blu="\033[34m"
 cd $SCHOME
 
 #Pillow Installatation
+pkg install python
 
+pip install requests
 
 python3 -m pip install --upgrade pip
 
@@ -44,7 +46,7 @@ clear
 echo
 echo
 echo
-center "STARING TO INSTALL INSTA-BOT BY AMKIKETZ"
+center "STARING TO INSTALL INSTA-BOT BY AMlIKETZ"
 
 sleep 3
 
