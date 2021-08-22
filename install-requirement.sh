@@ -50,7 +50,7 @@ sleep 3
 
 pip install instabot
  
-
+pip install requests
 
 clear
 
