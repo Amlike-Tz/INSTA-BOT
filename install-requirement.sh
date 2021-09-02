@@ -23,7 +23,9 @@ blu="\033[34m"
 cd $SCHOME
 
 #Pillow Installatation
-pkg install python
+pkg install python3
+
+pkg install git
 
 pip install requests
 
@@ -69,5 +71,5 @@ cd
 
 cd INSTA-BOT
 
-python start.py
+python3 start.py
 
